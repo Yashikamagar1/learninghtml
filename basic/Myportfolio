@@ -17,11 +17,13 @@
         <a href="#education">Education</a>
     </nav>
     <hr>
-    <section id="About me">
-        <h2>Hello! My name is Yashika Magar</h2>
-        <p>I am a BCA student and I am intrested in Web developer and Programming</p>
-        
+    <section id="about">
+        <h2>About me</h2>
+        <p>Hello! My name is Yashika MagarI am a BCA student and I am intrested in Web developer and Programming</p>
+        <p>I am currently learning Html, Git, Github and C programming</p>
     </section>
+    <hr>
+    <section id=""
     
 </body>
 </html>
