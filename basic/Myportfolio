@@ -23,7 +23,15 @@
         <p>I am currently learning Html, Git, Github and C programming</p>
     </section>
     <hr>
-    <section id=""
+    <section id="skills">
+        <h2>My Skills</h2>
+        <ul>
+            <li>Html</li>
+            <li>C programming</li>
+            <li>Git</li>
+            <li>Github</li>
+        </ul>
+    </section>
     
 </body>
 </html>
