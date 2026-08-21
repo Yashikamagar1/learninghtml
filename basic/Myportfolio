@@ -8,8 +8,20 @@
 <body>
     <header>
         <h1> Hi! My name is Yashika Magar</h1>
-        <p>I am a BCA student and I am interested in Web developer and Programming</p>
+        <p>BCA student. Web developer</p>
     </header>
+    <hr>
+    <nav>
+        <a href="#about">About me</a>
+        <a href="#skills">Skills</a>
+        <a href="#education">Education</a>
+    </nav>
+    <hr>
+    <section id="About me">
+        <h2>Hello! My name is Yashika Magar</h2>
+        <p>I am a BCA student and I am intrested in Web developer and Programming</p>
+        
+    </section>
     
 </body>
 </html>
