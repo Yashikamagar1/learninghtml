@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+</head>
+<body>
+    <header>
+        <h1> Hi! My name is Yashika Magar</h1>
+        <p>I am a BCA student and I am interested in Web developer and Programming</p>
+    </header>
+    
+</body>
+</html>
